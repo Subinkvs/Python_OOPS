@@ -6,8 +6,6 @@
 # The interest rate for SavingsAccount is 3% per annum.
 # The account balance should not go below 0.
 
-
-
 class BankAccount:
        
     def __init__(self, name, balance):
